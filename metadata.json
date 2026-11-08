@@ -1,0 +1,6 @@
+{
+  "name": "NETI BHARATHAM – నేటి భారతం | Telugu Digital News Portal",
+  "description": "Official Telugu Digital News Portal (netibhaaratham.com) featuring Breaking News, Telangana, Andhra Pradesh, District & Mandal News, Reporter Management, ID Card Generator, BigRock PHP+MySQL Deployment Suite, and Official Android APK.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
